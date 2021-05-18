@@ -1,12 +1,12 @@
 # VSDK Unreal Edition
 
-The road to developing XR content is full of obstacles. VSDK is made by XR developers for XR developers to remove some of those common roadblocks so you can focus on building real interactive experiences.
+The road to developing XR content is full of obstacles. VSDK is made by XR developers for XR developers to remove some of those obstacles so you can focus on building real interactive experiences.
 
-Originally built for the Unity 3D engine, we've worked hard to build a spiritual port that brings the same time-saving features of VSDK Unity to the Unreal Engine.
+Originally built for the Unity 3D engine, VSDK Unreal brings the same time-saving features to the Unreal Engine.
 
-While it should be compatible with previous versions of Unreal Engine as well, use with Unreal Engine 4.26 for best results.
+While VSDK Unreal should be compatible with previous versions of Unreal Engine, use with Unreal Engine 4.26 for best results.
 
-**We are currently launching the VSDK Unreal Edition project.Documentation is coming to the GitHub wiki soon. In the meantime, please be patient as we finalize setup**
+**We are currently launching the VSDK Unreal Edition project. Documentation is coming to the GitHub wiki soon. In the meantime, please be patient as we finalize setup.**
 
 ## Disclaimer
 
