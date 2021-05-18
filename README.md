@@ -1,3 +1,5 @@
+![VIRTUOSO SDK](VSDK_BW_logo.png)
+
 # VSDK Unreal Edition
 
 The road to developing XR content is full of obstacles. VSDK is made by XR developers for XR developers to remove some of those obstacles so you can focus on building real interactive experiences.
