@@ -2,28 +2,24 @@
 
 # VSDK Unreal Edition
 
-The road to developing XR content is full of obstacles. VSDK is made by XR developers for XR developers to remove some of those obstacles so you can focus on building real interactive experiences.
+The road to developing XR content is full of obstacles. VSDK was made by XR developers for XR developers, to remove some of those obstacles so you can focus on building immersive, interactive experiences.
 
-Originally built for the Unity 3D engine, VSDK Unreal brings the same time-saving features to the Unreal Engine.
+*VSDK is now available for the Unreal Engine.* 
 
-While VSDK Unreal should be compatible with previous versions of Unreal Engine, use with Unreal Engine 4.26 for best results.
-
-**We are currently launching the VSDK Unreal Edition project. Documentation is coming to the GitHub wiki soon. In the meantime, please be patient as we finalize setup.**
+While VSDK Unreal should be compatible with previous versions of Unreal Engine, use with Unreal Engine 4.26 for best results. See the [GitHub wiki](https://github.com/charles-river-analytics/VSDK-Unreal/wiki) for installation instructions. Additional documentation and tutorials will be available soon.
 
 ## Disclaimer
 
-VSDK Unreal is currently in **alpha** which means it is functional but not necessarily stable. Code is likely to evolve as we move towards a **beta** release, at which point the code is expected to be stable but not 100% bug-free.
+VSDK Unreal is currently in **alpha**, which means it is functional but not guaranteed to be stable. Code is likely to evolve as we move towards a **beta** release, when the code will be stable but not 100% bug-free.
 
-### Features
-
-VSDK Unreal was built using our real experience developing XR applications in both Unity and Unreal. We've worked hard building in key time-saving features that make it easier to go from prototype to full application.
-
-- **Multiplatform Support**
-    - Develop your experience once in Unreal Engine and easily deploy to common XR devices without significant rework
-    - Support for less common I/O devices (i.e. hand tracking, eye tracking, and haptics) is a priority for our team, as we believe these are the technologies future XR platforms will be built on
-- **Blueprint Ready**
-    - Blueprint Scripting is one of the coolest features of Unreal Engine
-    - Most of our code is written in C++ but is completely usable and extensible via Blueprint
-- **Thorough Interaction System**
-    - We've built an interaction system that covers the most common XR use cases, with an eye on immersive simulations
-    - Locomotion, Object Interaction, and More!
+## Features
+VSDK Unreal incorporates the same time-saving features as the original [VSDK for Unity 3D](https://github.com/charles-river-analytics/VSDK-Unity):
+- Multiplatform Support
+  - Develop your experience once in Unreal Engine and easily deploy it to common XR devices without significant rework.
+  - The device roadmap includes less common I/O technologies, such as hand tracking, eye tracking, and haptics, because we believe future XR platforms will rely on these technologies.
+- Blueprint Ready
+  - Blueprint Scripting is one of the coolest features of Unreal Engine.
+  - Most code for VSDK Unreal is written in C++, but VSDK Unreal is completely usable and extensible via Blueprint.
+- Interaction System
+  - Our interaction system includes the most common XR use cases, with a focus on immersive simulations.
+  - The system includes locomotion, object interaction, and more!
